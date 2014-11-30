@@ -5,19 +5,7 @@
   {registered, []},
   {applications, [
     kernel,
-    stdlib,
-    crypto,
-    asn1,
-    public_key,
-    ssl,
-    sasl,
-    inets,
-    compiler,
-    syntax_tools,
-    sync,
-    goldrush,
-    lager,
-    snmp
+    stdlib
   ]},
   {mod, { looker_app, []}},
   {env, []}

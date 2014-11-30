@@ -1,9 +1,5 @@
 .idea/*
-deps/*
+ebin/*
 log/*
 erl_crash.dump
 sasl.log
-looker.iml
-ebin/*
-aic.ets
-Guardfile

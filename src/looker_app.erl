@@ -1,5 +1,4 @@
 -module(looker_app).
-
 -behaviour(application).
 
 %% Application callbacks

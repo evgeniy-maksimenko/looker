@@ -1,0 +1,6 @@
+-define(SERVER,           ?MODULE).
+-define(USER_ID,          "cactuz_manager").
+-define(TARGET_NAME,      "cactuz_agent").
+-define(APP_NAME,         looker).
+-define(APP_MANAGER_CONF, manager_conf).
+-record(state,{manager_conf}).
